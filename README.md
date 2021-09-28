@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## You can find me at: 
+
+Telegram [@KarelDiazAlfonso](https://t.me/KarelDiazAlfonso)
+
+Twitter [@KarelDiazA](https://twitter.com/KarelDiazA)
+
 <!--
 **KarelDiaz/KarelDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
