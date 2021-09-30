@@ -1,12 +1,25 @@
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm Karel Díaz Alfonso
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karel-diaz-alfonso-7737a6122/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/KarelDiazA)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/KarelDiazAlfonso)
+<!--Telegram link-->
+<a href="https://t.me/KarelDiazAlfonso" target="_blanck">
+ <img src="https://www.svgrepo.com/show/303292/telegram-logo.svg" style="height:2rem">
+</a>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/kareldiaza?color=%20%2300acee&label=Twitter%20Followers&style=for-the-badge) 
+<!--Lindin link-->
+<a href="https://www.linkedin.com/in/karel-diaz-alfonso-7737a6122/" target="_blanck">
+ <img src="https://www.svgrepo.com/show/138936/linkedin.svg" style="height:2rem">
+</a>
 
+<!--Twitter link-->
+<a href="https://twitter.com/KarelDiazA" target="_blanck">
+ <img src="https://www.svgrepo.com/show/157815/twitter.svg" style="height:2rem">
+</a>
+
+<!--Opensea link-->
+<a href="https://opensea.io/kareldiaz" target="_blanck">
+ <img src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.svg" style="height:2rem">
+</a>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarelDiaz&layout=compact)
 
