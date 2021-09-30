@@ -1,25 +1,9 @@
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm Karel Díaz Alfonso
-
-<!--Telegram link-->
-<a href="https://t.me/KarelDiazAlfonso" target="_blanck">
- <img src="https://www.svgrepo.com/show/303292/telegram-logo.svg" style="height:2rem">
-</a>
-
-<!--Lindin link-->
-<a href="https://www.linkedin.com/in/karel-diaz-alfonso-7737a6122/" target="_blanck">
- <img src="https://www.svgrepo.com/show/138936/linkedin.svg" style="height:2rem">
-</a>
-
-<!--Twitter link-->
-<a href="https://twitter.com/KarelDiazA" target="_blanck">
- <img src="https://www.svgrepo.com/show/157815/twitter.svg" style="height:2rem">
-</a>
-
-<!--Opensea link-->
-<a href="https://opensea.io/kareldiaz" target="_blanck">
- <img src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.svg" style="height:2rem">
-</a>
+[<img src="https://www.svgrepo.com/show/303292/telegram-logo.svg" style="height:2rem">](https://t.me/KarelDiazAlfonso)
+[<img src="https://www.svgrepo.com/show/138936/linkedin.svg" style="height:2rem">](https://www.linkedin.com/in/karel-diaz-alfonso-7737a6122/)
+[<img src="https://www.svgrepo.com/show/157815/twitter.svg" style="height:2rem">](https://twitter.com/KarelDiazA)
+[<img src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.svg" style="height:2rem">](https://opensea.io/kareldiaz)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarelDiaz&layout=compact)
 
