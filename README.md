@@ -3,7 +3,6 @@
 [<img src="https://www.svgrepo.com/show/303292/telegram-logo.svg" style="height:2rem">](https://t.me/KarelDiazAlfonso)
 [<img src="https://www.svgrepo.com/show/138936/linkedin.svg" style="height:2rem">](https://www.linkedin.com/in/karel-diaz-alfonso-7737a6122/)
 [<img src="https://www.svgrepo.com/show/157815/twitter.svg" style="height:2rem">](https://twitter.com/KarelDiazA)
-[<img src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.svg" style="height:2rem">](https://opensea.io/kareldiaz)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarelDiaz&layout=compact)
 
